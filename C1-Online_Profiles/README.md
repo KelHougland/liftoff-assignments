@@ -7,10 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub](https://github.com/KelHougland)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/kelly-hougland-477b8b90/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+Uploaded to file.
+Tried to link to it below but it just opens up a page of gibberish.
+[Resume](KHougland-TechRes2018.pdf)
